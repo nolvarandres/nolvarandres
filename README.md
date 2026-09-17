@@ -16,6 +16,12 @@
 <a href="https://www.nolvarandres.com">
 <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+<a href="TU_INSTAGRAM">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="TU_TIKTOK">
+<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
 <br><br>
 
