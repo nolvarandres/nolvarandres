@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://github.com/TU_USERNAME">
+<a href="https://github.com/nolvarandres">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.nolvarandres.com">
@@ -19,7 +19,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=nolvarandres&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
