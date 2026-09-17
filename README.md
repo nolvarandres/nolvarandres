@@ -13,14 +13,16 @@
 <a href="https://github.com/nolvarandres">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.nolvarandres.com">
-<img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://www.nolvarandres.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/nolvarandres">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+<a href="https://www.instagram.com/nolvarandres" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.tiktok.com/@nolvarandres">
-<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+
+<a href="https://www.tiktok.com/@nolvarandres" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
 <br><br>
