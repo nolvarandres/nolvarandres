@@ -1,11 +1,11 @@
 <div align="center">
 
-# ANDRES
+# NÓLVAR ANDRÉS
 
-### AI Developer · Software Engineer · Founder of Aurebot
+### Software Developer · AI Builder · Automation
 
 <p>
-  <em>Building intelligent software that turns conversations into automation.</em>
+  <em>Building intelligent software that turns real-world data into useful information.</em>
 </p>
 
 <br>
@@ -13,12 +13,13 @@
 <a href="https://github.com/TU_USERNAME">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="#-aurebot">
-<img src="https://img.shields.io/badge/AUREBOT-111111?style=for-the-badge&logo=probot&logoColor=white"/>
+<a href="https://www.nolvarandres.com">
+<img src="https://img.shields.io/badge/WEBSITE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="#-connect">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-111111?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -32,94 +33,77 @@
 
 </div>
 
-I'm **Andres**, a software developer focused on **Artificial Intelligence, automation and SaaS**.
+I'm **Nólvar Andrés**, a software developer focused on building web applications, intelligent systems and automation tools.
 
-I'm currently building my foundations in **Python and JavaScript** while turning what I learn into real projects.
+Currently, I'm developing my skills across:
 
-My long-term mission is simple:
+```text
+Python        → Backend & intelligent systems
+JavaScript    → Web applications & logic
+HTML          → Structure & interfaces
+CSS           → UI & visual design
+AI            → Intelligent data processing
+```
 
-> **Build software that solves real problems and creates real value.**
+I enjoy turning ideas into working software, understanding how things work under the hood, and building projects that solve practical problems.
+
+<br>
 
 ---
 
 <div align="center">
 
-## `> what_i_build`
+## `> currently_building`
+
+### 📄 INTELLIGENT DOCUMENT PROCESSING
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm currently developing a system focused on **processing invoices and extracting valuable information from them automatically**.
 
-### 🤖 AI
-
-Building intelligent systems powered by modern AI and LLM technologies.
-
-* AI assistants
-* AI chatbots
-* AI agents
-* LLM integrations
-* Conversational interfaces
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Automation
-
-Turning repetitive business processes into automated workflows.
-
-* Lead qualification
-* Customer support
-* Business workflows
-* API integrations
-* Process automation
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🤖 AUREBOT
-
-### `AI AUTOMATION FOR MODERN BUSINESSES`
-
-</div>
-
-**Aurebot** is the project I'm building around AI-powered automation.
-
-The goal is to help businesses use AI to improve the way they communicate with customers, capture opportunities and automate repetitive work.
+The idea is simple:
 
 ```text
-                         AUREBOT
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-          CHATBOTS       AUTOMATION      AI AGENTS
-             │              │              │
-             ▼              ▼              ▼
-        Conversations    Workflows      Intelligence
-             │              │              │
-             └──────────────┼──────────────┘
-                            │
-                            ▼
-                     BUSINESS VALUE
+              📄 INVOICE
+                  │
+                  ▼
+             📤 UPLOAD
+                  │
+                  ▼
+          🔍 DOCUMENT ANALYSIS
+                  │
+                  ▼
+          🧠 DATA EXTRACTION
+                  │
+          ┌───────┴───────┐
+          ▼               ▼
+       VALUES           FIELDS
+          │               │
+          └───────┬───────┘
+                  ▼
+          📊 STRUCTURED DATA
 ```
 
-### Current focus
+### The goal
 
-```text
-AI Chatbots          ████████████████████░  Building
-Python               █████████████████░░░░  Learning
-JavaScript           ████████████████░░░░░  Learning
-APIs                 ███████████████░░░░░░  Learning
-AI Agents            ████████████░░░░░░░░░  Exploring
-SaaS                 ██████████░░░░░░░░░░░  Building
+Transform an unstructured document into **organized, usable information**.
+
+For example:
+
+```json
+{
+  "invoice_number": "...",
+  "date": "...",
+  "supplier": "...",
+  "subtotal": "...",
+  "tax": "...",
+  "total": "..."
+}
 ```
+
+> **Upload → Understand → Extract → Structure**
+
+This project is currently one of my main areas of development and learning.
 
 ---
 
@@ -127,29 +111,21 @@ SaaS                 ██████████░░░░░░░░░�
 
 ## `> tech_stack`
 
-</div>
+### LANGUAGES
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 
-<div align="center">
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+### WEB
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-### Tools
+<br><br>
 
-<div align="center">
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-
-</div>
-
-### Exploring
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
@@ -157,29 +133,43 @@ SaaS                 ██████████░░░░░░░░░�
 
 <div align="center">
 
-## `> featured_projects`
+## `> what_i'm_learning`
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Aurebot
+### 🐍 Python
 
-AI-powered chatbot and automation systems for businesses.
-
-**Status:** `BUILDING`
+Building a strong foundation in Python and using it to develop intelligent systems and backend logic.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Experiments
+### ⚡ JavaScript
 
-Small projects created while learning AI, Python and JavaScript.
+Learning modern JavaScript to build interactive applications and connect frontend experiences with backend systems.
 
-**Status:** `ACTIVE`
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+Creating interfaces using HTML and CSS while learning how complete web applications work.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AI & Automation
+
+Exploring how artificial intelligence can be integrated into practical software solutions.
 
 </td>
 </tr>
@@ -189,7 +179,39 @@ Small projects created while learning AI, Python and JavaScript.
 
 <div align="center">
 
-## `> github_stats`
+## `> development_philosophy`
+
+</div>
+
+```text
+        LEARN
+          │
+          ▼
+        BUILD
+          │
+          ▼
+        TEST
+          │
+          ▼
+        IMPROVE
+          │
+          ▼
+        SHIP
+```
+
+I believe the best way to learn software development is to **build real things**.
+
+Not just tutorials.
+
+Not just theory.
+
+**Build → Break → Understand → Improve.**
+
+---
+
+<div align="center">
+
+## `> github_activity`
 
 <br>
 
@@ -207,62 +229,60 @@ Small projects created while learning AI, Python and JavaScript.
 
 <div align="center">
 
-## `> current_mission`
-
-</div>
-
-```text
-01  Learn Python deeply
-02  Build real AI applications
-03  Master JavaScript
-04  Understand APIs & integrations
-05  Build AI agents
-06  Launch Aurebot
-07  Turn software into business
-```
-
----
-
-<div align="center">
-
 ## `> roadmap`
 
-```text
-LEARN
-  │
-  ▼
-BUILD
-  │
-  ▼
-SHIP
-  │
-  ▼
-SOLVE REAL PROBLEMS
-  │
-  ▼
-BUILD A BUSINESS
-```
-
-### 2026
-
-`Python` · `JavaScript` · `AI` · `Automation` · `SaaS`
-
 </div>
+
+```text
+01  ████████████████████  HTML / CSS
+02  ███████████████████░  JavaScript
+03  █████████████████░░░  Python
+04  ███████████████░░░░░  Backend Development
+05  ██████████████░░░░░░  APIs & Integrations
+06  ████████████░░░░░░░░  AI & Document Processing
+07  ██████████░░░░░░░░░░  Intelligent Automation
+08  ████████░░░░░░░░░░░░  SaaS
+```
 
 ---
 
 <div align="center">
 
-## `> philosophy`
+## `> projects`
 
 <br>
 
-### **Build. Automate. Scale.**
+| Project                        | Focus                                 |   Status   |
+| :----------------------------- | :------------------------------------ | :--------: |
+| 📄 Invoice Intelligence System | Document Processing & Data Extraction | `BUILDING` |
+| 🌐 Personal Website            | Web Development                       |   `LIVE`   |
+| 🧪 Development Experiments     | Python / JavaScript / AI              |  `ACTIVE`  |
 
-<em>
-I don't want to just learn technology.<br>
-I want to use technology to build things that matter.
-</em>
+</div>
+
+---
+
+<div align="center">
+
+## `> beyond_the_code`
+
+<br>
+
+I don't just want to write code.
+
+I want to understand **how software becomes a useful product**.
+
+<br>
+
+```text
+        IDEA
+         ↓
+       CODE
+         ↓
+      PRODUCT
+         ↓
+       VALUE
+```
 
 </div>
 
@@ -274,16 +294,24 @@ I want to use technology to build things that matter.
 
 <br>
 
+<a href="https://www.nolvarandres.com">
+<img src="https://img.shields.io/badge/nolvarandres.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/TU_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
+### Building software. Learning every day.
 
-<br><br>
+<br>
 
-<sub>© 2026 Andres · Building Aurebot</sub>
+**CODE · AUTOMATE · CREATE**
+
+<br>
+
+<sub>© 2026 Nólvar Andrés</sub>
 
 </div>
